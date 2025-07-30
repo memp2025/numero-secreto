@@ -20,6 +20,9 @@ Uma aplicação simples onde o usuário tenta adivinhar o número secreto gerado
 2. Tente adivinhar o número secreto inserindo palpites.
 3. Receba dicas até acertar o número.
 
+## 📂 Repositório
+Você pode acessar o código-fonte e acompanhar o projeto neste link:  
+[https://github.com/memp2025/numero-secreto](https://github.com/memp2025/numero-secreto)
 
 
 
